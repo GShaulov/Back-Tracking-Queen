@@ -12,11 +12,7 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 
 public class BTQueen extends JPanel{
-	/*****************************************
-	 * Program:	Back Tracking Queen	         *
-	 * Author:	Grigory Shaulov 317572386    *
-	 *****************************************/
-	
+
 	//version
 	private static final long serialVersionUID = 151010L;
 	
